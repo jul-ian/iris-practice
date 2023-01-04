@@ -1,2 +1,1 @@
-# iris-practice
-Using the iris dataset from the UCI Machine Learning Repository for practice
+# Using the iris UCI Machine Learning Repository dataset for practice
