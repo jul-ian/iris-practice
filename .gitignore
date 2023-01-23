@@ -1,2 +1,5 @@
 notebooks/.ipynb_checkpoints/
 data/iris.names
+iris_practice/iris_practice.egg-info/
+iris_practice/build/
+iris_practice/dist/
